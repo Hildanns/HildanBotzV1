@@ -1,0 +1,13 @@
+{
+  "BanChats": true,
+  "AutoRead": true,
+  "AutoRecording": true,
+  "AutoReply": true,
+  "NamaSession": "sessions",
+  "NamaOwner": "Hildann",
+  "NamaBot": "Hildann Botz",
+  "NomorOwner": "6281545945344",
+  "NomorOwner2": "6281545945344@s.whatsapp.net",
+  "NomorBot": "6282261096734",
+  "Limit": 20
+}
